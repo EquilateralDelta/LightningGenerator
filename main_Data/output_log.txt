@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 520MX (ID=0x1051)
+    Vendor:   NVIDIA
+    VRAM:     993 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\НаркомДе\Documents\Platformer\main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\НаркомДе\Documents\Platformer\main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\НаркомДе\Documents\Platformer\main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\НаркомДе\Documents\Platformer\main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.300 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
